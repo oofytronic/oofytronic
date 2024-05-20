@@ -17,9 +17,9 @@ I'm a software developer with a passion for building web applications and learni
 
 ## Projects
 
-- [Project 1](https://oofbetold.com#projects) 
+- [List](https://oofbetold.com#projects) 
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/raoufsattaur/))
+- [LinkedIn](https://www.linkedin.com/in/raoufsattaur/)
 - [Blog](https://oofbetold.com)
