@@ -17,7 +17,7 @@ I'm a Full-Stack Engineer and Web Designer with a passion for building web appli
 
 ## Projects
 
-- [List](https://oofbetold.com#projects) 
+- [List](https://oofbetold.com#work) 
 
 ## Connect with Me
 
