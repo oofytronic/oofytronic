@@ -1,4 +1,4 @@
-# Hi there, I'm Raouf (Oof) Sattaur 👋
+# Hi there, I'm Raouf "Oof" Sattaur 👋
 
 ## About Me
 
@@ -13,7 +13,7 @@ I'm a Full-Stack Engineer and Web Designer with a passion for building web appli
 
 - **Programming Languages**: HTML, CSS, JavaScript
 - **Frameworks**: React, NextJS, Express, Node.js, Bun, Deno, HTMX
-- **Tools**: Git, NeoVim
+- **Tools**: Git, NeoVim, Excalidraw, Figma, Sublime Text
 
 ## Projects
 
