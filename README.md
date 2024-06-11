@@ -11,8 +11,8 @@ I'm a Full-Stack Engineer and Web Designer with a passion for building web appli
 
 ## My Skills
 
-- **Programming Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React, NextJS, TypeScript Express, Node.js, Bun, Deno, HTMX
+- **Programming Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: React, NextJS, Express, Node.js, Bun, Deno, HTMX
 - **Tools**: Git, NeoVim, Excalidraw, Figma, Sublime Text
 
 ## Projects
